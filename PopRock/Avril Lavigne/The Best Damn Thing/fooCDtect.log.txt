@@ -1,0 +1,282 @@
+﻿fooCDtect - foobar2000 + auCDtect, baralgin.
+
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+     mode: 0
+
+===========================================
+    Track: C:\\01. Girlfriend
+
+Processing file:	[01. Girlfriend.aucdtect]
+Detected average hi-boundary frequency: 2.004794e+004 Hz
+Detected average lo-boundary frequency: 1.281723e+004 Hz
+Detected average hi-cut frequency: 2.192073e+004 Hz
+Detected average lo-cut frequency: 1.083365e+004 Hz
+Maximum probablis boundary frequency: 2.112700e+004 Hz
+Coefficient of nonlinearity of a phase: 3.623762e-001
+First order smothness: 3.679691e-001
+Second order smothness: 4.598540e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\02. I Can Do Better
+
+Processing file:	[02. I Can Do Better.aucdtect]
+Detected average hi-boundary frequency: 2.051420e+004 Hz
+Detected average lo-boundary frequency: 1.518297e+004 Hz
+Detected average hi-cut frequency: 2.151362e+004 Hz
+Detected average lo-cut frequency: 1.415713e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 1.622874e-001
+First order smothness: 4.483087e-001
+Second order smothness: 5.169128e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\03. Runaway
+
+Processing file:	[03. Runaway.aucdtect]
+Detected average hi-boundary frequency: 2.027533e+004 Hz
+Detected average lo-boundary frequency: 1.351629e+004 Hz
+Detected average hi-cut frequency: 2.118127e+004 Hz
+Detected average lo-cut frequency: 7.852976e+003 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 5.475986e-001
+First order smothness: 3.480392e-001
+Second order smothness: 4.477124e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\04. The Best Damn Thing
+
+Processing file:	[04. The Best Damn Thing.aucdtect]
+Detected average hi-boundary frequency: 2.004818e+004 Hz
+Detected average lo-boundary frequency: 1.320808e+004 Hz
+Detected average hi-cut frequency: 2.189351e+004 Hz
+Detected average lo-cut frequency: 1.217340e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 8.030502e-001
+First order smothness: 3.767831e-001
+Second order smothness: 5.051648e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\05. When You're Gone
+
+Processing file:	[05. When You're Gone.aucdtect]
+Detected average hi-boundary frequency: 2.069045e+004 Hz
+Detected average lo-boundary frequency: 1.575144e+004 Hz
+Detected average hi-cut frequency: 2.154033e+004 Hz
+Detected average lo-cut frequency: 1.519886e+004 Hz
+Maximum probablis boundary frequency: 2.154700e+004 Hz
+Coefficient of nonlinearity of a phase: 2.423810e-001
+First order smothness: 4.723618e-001
+Second order smothness: 6.497874e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\06. Everything Back But You
+
+Processing file:	[06. Everything Back But You.aucdtect]
+Detected average hi-boundary frequency: 2.038990e+004 Hz
+Detected average lo-boundary frequency: 1.395365e+004 Hz
+Detected average hi-cut frequency: 2.149618e+004 Hz
+Detected average lo-cut frequency: 1.566209e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 2.012587e-001
+First order smothness: 3.693878e-001
+Second order smothness: 5.454082e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\07. Hot
+
+Processing file:	[07. Hot.aucdtect]
+Detected average hi-boundary frequency: 2.052331e+004 Hz
+Detected average lo-boundary frequency: 1.390450e+004 Hz
+Detected average hi-cut frequency: 2.158544e+004 Hz
+Detected average lo-cut frequency: 1.403084e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 4.104183e-002
+First order smothness: 3.993581e-001
+Second order smothness: 5.745071e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 99%
+
+===========================================
+    Track: C:\\08. Innocence
+
+Processing file:	[08. Innocence.aucdtect]
+Detected average hi-boundary frequency: 2.036886e+004 Hz
+Detected average lo-boundary frequency: 1.446622e+004 Hz
+Detected average hi-cut frequency: 2.150842e+004 Hz
+Detected average lo-cut frequency: 1.200668e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 2.737745e-001
+First order smothness: 3.624349e-001
+Second order smothness: 6.299559e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 99%
+
+===========================================
+    Track: C:\\09. I Don't Have To Try
+
+Processing file:	[09. I Don't Have To Try.aucdtect]
+Detected average hi-boundary frequency: 2.006822e+004 Hz
+Detected average lo-boundary frequency: 1.241498e+004 Hz
+Detected average hi-cut frequency: 2.153965e+004 Hz
+Detected average lo-cut frequency: 8.226324e+003 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 9.388602e-001
+First order smothness: 3.645390e-001
+Second order smothness: 3.460993e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\10. One Of Those Girls
+
+Processing file:	[10. One Of Those Girls.aucdtect]
+Detected average hi-boundary frequency: 2.020351e+004 Hz
+Detected average lo-boundary frequency: 1.295614e+004 Hz
+Detected average hi-cut frequency: 2.151243e+004 Hz
+Detected average lo-cut frequency: 1.083287e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 6.711428e-001
+First order smothness: 3.372216e-001
+Second order smothness: 5.180276e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\11. Contagious
+
+Processing file:	[11. Contagious.aucdtect]
+Detected average hi-boundary frequency: 2.031348e+004 Hz
+Detected average lo-boundary frequency: 1.362211e+004 Hz
+Detected average hi-cut frequency: 2.179986e+004 Hz
+Detected average lo-cut frequency: 1.459858e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 2.294168e-001
+First order smothness: 3.629149e-001
+Second order smothness: 5.505051e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\12. Keep Holding On
+
+Processing file:	[12. Keep Holding On.aucdtect]
+Detected average hi-boundary frequency: 2.027378e+004 Hz
+Detected average lo-boundary frequency: 1.402604e+004 Hz
+Detected average hi-cut frequency: 2.143474e+004 Hz
+Detected average lo-cut frequency: 1.170466e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 2.068704e-001
+First order smothness: 3.233812e-001
+Second order smothness: 6.335789e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\13. Alone
+
+Processing file:	[13. Alone.aucdtect]
+Detected average hi-boundary frequency: 2.045124e+004 Hz
+Detected average lo-boundary frequency: 1.376634e+004 Hz
+Detected average hi-cut frequency: 2.150819e+004 Hz
+Detected average lo-cut frequency: 1.514741e+004 Hz
+Maximum probablis boundary frequency: 2.121800e+004 Hz
+Coefficient of nonlinearity of a phase: 9.363775e-002
+First order smothness: 3.618357e-001
+Second order smothness: 6.434783e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+
+===========================================
+    Track: C:\\14. I Will Be
+
+Processing file:	[14. I Will Be.aucdtect]
+Detected average hi-boundary frequency: 2.073577e+004 Hz
+Detected average lo-boundary frequency: 1.672883e+004 Hz
+Detected average hi-cut frequency: 2.151969e+004 Hz
+Detected average lo-cut frequency: 1.621070e+004 Hz
+Maximum probablis boundary frequency: 2.165400e+004 Hz
+Coefficient of nonlinearity of a phase: 1.423763e-001
+First order smothness: 4.306854e-001
+Second order smothness: 6.654984e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\15. I Can Do Better (acoustic)
+
+Processing file:	[15. I Can Do Better (acoustic).aucdtect]
+Detected average hi-boundary frequency: 2.149128e+004 Hz
+Detected average lo-boundary frequency: 1.856598e+004 Hz
+Detected average hi-cut frequency: 2.193447e+004 Hz
+Detected average lo-cut frequency: 2.070316e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 1.340849e-001
+First order smothness: 6.830508e-001
+Second order smothness: 7.144068e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\16. Girlfriend (Japanese Version)
+
+Processing file:	[16. Girlfriend (Japanese Version).aucdtect]
+Detected average hi-boundary frequency: 2.004929e+004 Hz
+Detected average lo-boundary frequency: 1.298176e+004 Hz
+Detected average hi-cut frequency: 2.191622e+004 Hz
+Detected average lo-cut frequency: 1.061607e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 2.143834e-001
+First order smothness: 3.510958e-001
+Second order smothness: 4.817361e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 100%
+
+===========================================
+    Track: C:\\17. Girlfriend (Dr. Luke Remix feat. Lil Mama)
+
+Processing file:	[17. Girlfriend (Dr. Luke Remix feat. Lil Mama).aucdtect]
+Detected average hi-boundary frequency: 2.111271e+004 Hz
+Detected average lo-boundary frequency: 1.836754e+004 Hz
+Detected average hi-cut frequency: 2.160616e+004 Hz
+Detected average lo-cut frequency: 1.780816e+004 Hz
+Maximum probablis boundary frequency: 2.157900e+004 Hz
+Coefficient of nonlinearity of a phase: 7.539767e-002
+First order smothness: 6.285714e-001
+Second order smothness: 5.138322e-001
+
+------------------------------------------------------------
+This track looks like CDDA with probability 99%
+
+===========================================
